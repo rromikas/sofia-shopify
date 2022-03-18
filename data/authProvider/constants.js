@@ -1,0 +1,9 @@
+export const TOKEN = "token";
+export const REFRESH_TOKEN = "refresh_token";
+export const USER = "user";
+export const PERMISSIONS = "permissions";
+export const REFRESH_TIME = "refresh_time";
+export const IS_AUTH = "isAuthenticated";
+export const USER_INFO = "user_info";
+export const PUBLIC_ROUTES = ["forgot-password", "preview", "demo"];
+export const API_URL = "http://socean-api.sofiapulse.com/api/v1";
